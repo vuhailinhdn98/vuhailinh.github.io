@@ -1,0 +1,59 @@
+body
+{
+    margin:auto;
+    font-family:arial;
+    background-color:black;
+
+}
+.backgroundblack
+{
+    background-color:black;
+}
+.backgroundgray
+{
+    background-color:gray;
+}
+#resume
+{
+    width:30%;
+    padding: 50px 0 10px 20px;
+    font-size:150%;
+}
+#name
+{
+    font-size:300%;
+    letter-spacing:5px;
+}
+#job
+{
+    font-style:italic;
+    margin-top:-40px;
+}
+.center
+{
+    text-align:center;
+}
+.white
+{
+    color:white;
+}
+.gray
+{
+    color:#9da3a7;
+}
+.white p
+{
+    line-height:150%;
+}
+.left
+{
+    float:left;
+}
+.right
+{
+    float:right;
+}
+.clear
+{
+    clear:both;
+}
